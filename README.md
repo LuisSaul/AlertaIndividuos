@@ -45,4 +45,4 @@ Simulación de circuito con slide switch en ves de reed switch
 
 Autor
 -----
-Juan Pablo Gallardo Ochoa.
+Luis Saul Ornelas Pérez
