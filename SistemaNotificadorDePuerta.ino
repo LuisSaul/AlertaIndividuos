@@ -29,7 +29,7 @@ void loop() {
   //Si la interripcion esta activada, seguira entrando en este if
   if(encender){
     //Valor del potenciometro que sirve para controlar el volumen del buzzer
-    valorPot = analogRead(pot)/50;
+    valorPot = analogRead(pot)/10;
     //Suena el buzzer en base al valor del potenciometro de 10KOhms
     analogWrite(bocina, valorPot);
     //EL led se queda encendido en lo que dura la interrupcion

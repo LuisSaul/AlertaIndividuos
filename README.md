@@ -15,12 +15,12 @@ energético.
 Componentes usados
 ------------------
 
-1 Arduino UNO
-1 Protoboard
-1 Reed switch
-1 Buzzer
-1 Led
-3 Resistencias de 330 Ohms
+- 1 Arduino UNO
+- 1 Protoboard
+- 1 Reed switch
+- 1 Buzzer
+- 1 Led
+- 3 Resistencias de 330 Ohms
 
 Descripción de funcionalidad
 ----------------------------
